@@ -1,4 +1,4 @@
-# Student Data Management System
+# Library Management System
 college java project
 
 ## 🗃️ Import the Database
